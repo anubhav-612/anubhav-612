@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @anubhav-612
-- 👀 I’m interested in software testing and automation testing
 - 🌱 I’m currently pursuing my BCA 
-- 💞️ I’m preparing to get into top NITS to pursue my masters 
-- 📫 How to reach me "anubhav yadav" on linkedin
 - 😄 Pronouns: he/him
 
 
